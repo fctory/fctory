@@ -1,5 +1,3 @@
-- 👋 Hi, I’m @fctory
-- 🇨🇱 I’m from Chile
 
 <!---
 fctory/fctory is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
